@@ -16,6 +16,7 @@ parts:
       - file: exercises/005.md
       - file: exercises/006.md
       - file: exercises/summary
+      - file: figures/TeachBooks_flowchart.svg
     - file: references.md
     - file: changelog.md
     - file: credits.md

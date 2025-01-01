@@ -24,9 +24,9 @@ sphinx:
       repository_url: "https://github.com/user/repo" #add your own repo URL here
       path_to_docs: "book"
       repository_branch: "main"
-      use_edit_page_button: true
-      use_repository_button: true
-      use_issues_button : true
+      use_edit_page_button: false
+      use_repository_button: false
+      use_issues_button : false
       launch_buttons:
         thebe: true
     html_show_copyright: false
